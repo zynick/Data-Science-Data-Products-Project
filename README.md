@@ -8,4 +8,4 @@ https://zynick.shinyapps.io/project/
 
 ## RPub (Rstudio Presenter) Link
 
-http://rpubs.com/zynick2/data-products-course-project
+http://rpubs.com/zynick2/data-products2
