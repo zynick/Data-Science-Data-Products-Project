@@ -5,3 +5,7 @@ This is the source code for the Course Project. It is published to Shiny App Sit
 ## Shiny App Public Link
 
 https://zynick.shinyapps.io/project/
+
+## Presentation Link
+
+http://rpubs.com/zynick2/data-products-course-project
