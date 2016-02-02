@@ -27,6 +27,14 @@ url("https://raw.githubusercontent.com/zynick/Data-Science-Data-Products-Project
 g <- ggplot(trainData, aes(Age, Pclass))
 g + geom_point(aes(color=Sex)) + facet_grid(Survived ~.)
 ```
+***
+```{r, echo=FALSE}
+library(ggplot2)
+trainData <- read.csv(
+url("https://raw.githubusercontent.com/zynick/Data-Science-Data-Products-Project/master/data/train.csv"))
+g <- ggplot(trainData, aes(Age, Pclass))
+g + geom_point(aes(color=Sex)) + facet_grid(Survived ~.)
+```
 
 
 Guidelines to Reproduce Locally

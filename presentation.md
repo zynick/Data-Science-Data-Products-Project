@@ -28,6 +28,8 @@ url("https://raw.githubusercontent.com/zynick/Data-Science-Data-Products-Project
 g <- ggplot(trainData, aes(Age, Pclass))
 g + geom_point(aes(color=Sex)) + facet_grid(Survived ~.)
 ```
+***
+![plot of chunk unnamed-chunk-2](presentation-figure/unnamed-chunk-2-1.png) 
 
 
 Guidelines to Reproduce Locally
